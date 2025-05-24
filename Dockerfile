@@ -1,5 +1,5 @@
 FROM node:lts-buster
-RUN git clone https://github.com/Sesco001/digitex-md/root/ikJawad
+RUN git clone https://github.com/sesco001/DIGITEX-MD/tree/main/root/ikJawad
 WORKDIR /root/ikJawad
 RUN npm install && npm install -g pm2 || yarn install --network-concurrency 1
 COPY . .
