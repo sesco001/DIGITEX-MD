@@ -5,8 +5,8 @@ const {runtime} = require('../lib/functions')
 const axios = require('axios')
 
 cmd({
-    pattern: "peacemd",
-    alias: ["peace","peacemenu"],use: '.menu',
+    pattern: "digitexmd",
+    alias: ["digitex","digitexmenu"],use: '.menu',
     desc: "menu the bot",
     category: "menu",
     react: "📱",
@@ -139,7 +139,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363290715861418@newsletter',
-                        newsletterName: '𝙋𝙀𝘼𝘾𝙀 𝙈𝘿',
+                        newsletterName: 'digitex 𝙈𝘿',
                         serverMessageId: 143
                     }
                 }
@@ -149,7 +149,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://files.catbox.moe/kxdej4.m4a' },
+            audio: { url: 'https://files.catbox.moe/g7qjxj.png' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
