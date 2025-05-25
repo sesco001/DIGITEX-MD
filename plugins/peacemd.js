@@ -22,7 +22,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃ ✨ *Prefix:* ${config.PREFIX}
 ┃ 💾 *RAM:* ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(os.totalmem() / 1024 / 1024)}MB
 ┃ 🙍 *User:* ${pushName}
-┃ 👨‍💻 *Developer:* Peacemaker Tech
+┃ 👨‍💻 *Developer:*  Digitexmedia
 ┃ 🚀 *Version:* 1.0.0
 ┃
 ╰━━━━━━━━━━━━━━━━━━━━━━━━╯
