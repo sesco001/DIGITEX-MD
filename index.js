@@ -44,7 +44,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['254748571920']
+  const ownerNumber = ['254726293089']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -68,7 +68,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("DIGITEX~", '');
+const sessdata = config.SESSION_ID.replace("PEACEMAKER~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -114,15 +114,15 @@ const port = process.env.PORT || 9090;
   console.log('Bot connected to whatsapp ✅')
   
   let up = `╭══════════════⊷
-┃ DIGITEX-XMD CONNECTED SUCCESSFULLY 
+┃ PEACEMAKER MD CONNECTED SUCCESSFULLY 
 ╰══════════════⊷
 ╭══════════════⊷
 ┃ 🪆𝗥𝗘𝗣𝗢
-┃https://github.com/sesco001/DIGITEX-MD
+┃https://github.com/Peacemaker-cyber/Peacemaker-md
 ╰══════════════⊷
 ╭══════════════⊷
 ┃ ❤️‍🩹𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗
-┃ https://digitex-xmd-session-site-working.onrender.com/
+┃https://peace-merchant.onrender.com
 ╰══════════════⊷
 `;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/e6rhto.jpg` }, caption: up })
@@ -212,7 +212,7 @@ const port = process.env.PORT || 9090;
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
   const udp = botNumber.split('@')[0];
-    const jawad = ('254748571920', '254739285768', '254732297194');
+    const jawad = ('254726293089', '254743982206', '254732297194');
     let isCreator = [udp, jawad, config.DEV]
 					.map(v => v.replace(/[^0-9]/g) + '@s.whatsapp.net')
 					.includes(mek.sender);
@@ -259,7 +259,7 @@ const port = process.env.PORT || 9090;
 				}
  //================ownerreact==============
     
-if (senderNumber.includes("254748571920") && !isReact) {
+if (senderNumber.includes("254726293089") && !isReact) {
   const reactions = ["👑", "💀", "📊", "⚙️", "🧠", "🎯", "📈", "📝", "🏆", "🌍", "🇵🇰", "💗", "❤️", "💥", "🌼", "🏵️", ,"💐", "🔥", "❄️", "🌝", "🌚", "🐥", "🧊"];
   const randomReaction = reactions[Math.floor(Math.random() * reactions.length)];
   m.react(randomReaction);
@@ -354,7 +354,7 @@ if (!isReact && config.CUSTOM_REACT === 'true') {
       } else return jid;
     };
     //===================================================
-    conn.copyNForward =pp async(jid, message, forceForward = false, options = {}) => {
+    conn.copyNForward = async(jid, message, forceForward = false, options = {}) => {
       let vtype
       if (options.readViewOnce) {
           message.message = message.message && message.message.ephemeralMessage && message.message.ephemeralMessage.message ? message.message.ephemeralMessage.message : (message.message || undefined)
@@ -370,7 +370,7 @@ if (!isReact && config.CUSTOM_REACT === 'true') {
       let content = await generateForwardMessageContent(message, forceForward)
       let ctype = Object.keys(content)[0]
       let context = {}
-      if (mtype != "conversation") context = message.message[mtype]vcontextInfo
+      if (mtype != "conversation") context = message.message[mtype].contextInfo
       content[ctype].contextInfo = {
           ...context,
           ...content[ctype].contextInfo
