@@ -44,7 +44,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['254726293089']
+  const ownerNumber = ['254748571920']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -68,7 +68,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("PEACEMAKER~", '');
+const sessdata = config.SESSION_ID.replace("DIGITEX ~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -114,15 +114,15 @@ const port = process.env.PORT || 9090;
   console.log('Bot connected to whatsapp ✅')
   
   let up = `╭══════════════⊷
-┃ PEACEMAKER MD CONNECTED SUCCESSFULLY 
+┃ DIGITEX MD CONNECTED SUCCESSFULLY 
 ╰══════════════⊷
 ╭══════════════⊷
 ┃ 🪆𝗥𝗘𝗣𝗢
-┃https://github.com/Peacemaker-cyber/Peacemaker-md
+┃https://github.com/sesco001/DIGITEX-MD
 ╰══════════════⊷
 ╭══════════════⊷
 ┃ ❤️‍🩹𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗
-┃https://peace-merchant.onrender.com
+┃https://digitex-xmd-session-site-working.onrender.com
 ╰══════════════⊷
 `;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/e6rhto.jpg` }, caption: up })
@@ -259,7 +259,7 @@ const port = process.env.PORT || 9090;
 				}
  //================ownerreact==============
     
-if (senderNumber.includes("254726293089") && !isReact) {
+if (senderNumber.includes("254748571920") && !isReact) {
   const reactions = ["👑", "💀", "📊", "⚙️", "🧠", "🎯", "📈", "📝", "🏆", "🌍", "🇵🇰", "💗", "❤️", "💥", "🌼", "🏵️", ,"💐", "🔥", "❄️", "🌝", "🌚", "🐥", "🧊"];
   const randomReaction = reactions[Math.floor(Math.random() * reactions.length)];
   m.react(randomReaction);
