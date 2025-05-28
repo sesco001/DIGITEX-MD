@@ -1,78 +1,70 @@
-# DIGITEX-MD
-<h3 align="center">"..YOU WANT IT..GO FOR IT..."</h3>
+<a><img src='https://files.catbox.moe/sigghy.jpg'/></a>
+<h1 align="center"> MAKAMESCO_XMD </h1>
 
-<div align="center">
-  <img src="https://files.catbox.moe/g7qjxj.png" alt="DIGITEX-XMD Banner" width="400" />
+ 
+<h1 align="center"> Stay on track everyone is mad
+</h1>
+
+
+
+<details>
+<summary>𝐕𝐈𝐄𝐖 𝐋𝐀𝐓𝐄𝐒𝐓 𝐁𝐎𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐇𝐄𝐑𝐄👇</summary>
   
-  <hr style="width: 80%; margin: 20px auto; border: 0.5px solid #333;" />
-</div>
+- 𝑨𝒍𝒍 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅𝒆𝒓𝒔 𝑭𝒊𝒙𝒆𝒅 𝒂𝒏𝒅 𝒂𝒓𝒆 𝑾𝒐𝒓𝒌𝒊𝒏𝒈🔥.
+- 𝑶𝒗𝒆𝒓𝒂𝒍 𝑷𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝑰𝒎𝒑𝒓𝒐𝒗𝒆𝒎𝒆𝒏𝒕𝒔🤫.
+
+</details>
 
 
+**👇FORK REPO**
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>Fork Repository</h3>
-      <p>Customize the bot for your needs</p>
-      <a href="https://github.com/Sesco001/DIGITEX-MD/fork">
-        <img src="https://img.shields.io/badge/FORK-purple?style=for-the-badge" alt="Fork Button">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>Pair Session</h3>
-      <p>Link your session ID to start using</p>
-      <a href="https://digitex-xmd-session-site-working.onrender.com">
-        <img src="https://img.shields.io/badge/Pair_Session-white?style=for-the-badge" alt="Pair Session">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>Official Website</h3>
-      <p>Visit Digitex's official site</p>
-      <a href="https://keith-site.vercel.app">
-        <img src="https://img.shields.io/badge/Website-ff69b4?style=for-the-badge" alt="Official Website">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>Contact Developer</h3>
-      <p>Get in touch with creator</p>
-      <a href="https://digitex-site.vercel.app/contact">
-        <img src="https://img.shields.io/badge/Contact-green?style=for-the-badge" alt="Contact Developer">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>DIGITEX APIs</h3>
-      <p>APIs and integrations (updating)</p>
-      <a href="https://apis-digitex.vercel.app/">
-        <img src="https://img.shields.io/badge/APIs-blue?style=for-the-badge" alt="DIGITEX APIs">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>Deploy</h3>
-      <p>Deploy to your preferred platform</p>
-      <a href='https://dashboard.heroku.com/new?template=https://github.com/Sesco001/DIGITEX-MD/tree/main?tab=readme-ov-file' target="_blank"> <img title="DEPLOY DIGITEX-MD BOT" src="https://img.shields.io/badge/👻_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-<p align="center">
-  <i>I don’t chase followers. I don’t care who deploys this. I code to make MY WhatsApp dope and MY life easier. Fixing scripts till they’re flawless? That’s my joy. Then? Netflix and zero fucks given."</i>
-</p>
-
-<div align="center">
-  <h3>Our Supporters</h3>
   
-  <a href="https://github.com/Digitex/DIGITEX-MD/stargazers">
-    <img src="http://reporoster.com/stars/dark/Sesco001/2FDigitexmedia-XMD" alt="Stargazers">
+
+<a href="https://github.com/sesco001/DIGITEX-MD/tree/main/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK MAKAMESCO_XMD" width="150"></a>
+
+  <a href="https://digitex-xmd-session-site-working.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=kenya" width="230" height="38.45"/></a></p>
+
+
+
+###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
+
+
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/sesco001/MAKAMESCO-XMD&template=https://https://github.com/sesco001/MAKAMESCO-XMD.git)***
+
+<br>
+
+ 
+**𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗**
+<details>
+<summary>CLICK FOR MORE</summary>
+<a href="https://github.com/sesco001/Diigitex_xmd/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+  
+<a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
+</details
+
+
+
+
+<a><img src='https://files.catbox.moe/sigghy.jpg'/></a>
+
+## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗨𝗦 𝗕𝗬 𝗝𝗢𝗜𝗡𝗜𝗡𝗚 𝗧𝗛𝗘𝗦𝗘 𝗟𝗜𝗡𝗞𝗦
+
+**WEBSITE**
+- <a href="https://Digitexsmartsolutions.com" target="_blank">
+    <img alt="CLICK HERE" src="https://img.shields.io/badge/ VISIT TO MY WEBSITE  -25D366?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+
+
+**𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
+<p align="centre">
+  <a href="https://whatsapp.com/channel/0029Vb5zdsiA89MrLd1hAk2Q">
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   
-  <a href="https://github.com/Digitexmedia/DIGITEX-XMD/network/members">
-    <img src="http://reporoster.com/forks/dark/Digitexmedia/DIGITEX-XMD" alt="Forks">
-  </a>
-</div>
+
+  
+
+
+Stay using Digitex Xmd
+
+
+#
