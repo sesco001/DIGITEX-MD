@@ -29,7 +29,7 @@
 ###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/sesco001/MAKAMESCO-XMD&template=https://https://github.com/sesco001/MAKAMESCO-XMD.git)***
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/sesco001/makamesco-xxmd&template=https://github.com/sesco001/makamesco-xxmd.git)***
 
 <br>
 
