@@ -50,14 +50,14 @@
 ## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗨𝗦 𝗕𝗬 𝗝𝗢𝗜𝗡𝗜𝗡𝗚 𝗧𝗛𝗘𝗦𝗘 𝗟𝗜𝗡𝗞𝗦
 
 **WEBSITE**
-- <a href="https://Digitexsmartsolutions.com" target="_blank">
+- <a href="https://Makamescodigitalsolutions.com" target="_blank">
     <img alt="CLICK HERE" src="https://img.shields.io/badge/ VISIT TO MY WEBSITE  -25D366?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
 
 **𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
 <p align="centre">
-  <a href="https://whatsapp.com/channel/0029Vb5zdsiA89MrLd1hAk2Q">
+  <a href="https://whatsapp.com/channel/0029VbAEL9r5vKA7RCdnYG0S">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   
 
